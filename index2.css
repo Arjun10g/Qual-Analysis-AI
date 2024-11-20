@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Finger+Paint);
+
+.smoke {
+  background: black;
+  overflow: hidden;
+  font: 5vw/100vh "Finger Paint";
+  text-align: center;
+  color: transparent;
+  backface-visibility: hidden;
+}
+
+.smoke > span {
+  display: inline-block;
+  text-shadow: 0 0 0 whitesmoke;
+}
+
