@@ -552,8 +552,8 @@ table caption {
 .title {
   font-size: 34px;
   font-weight: bold;
-  color: #0ef;
-  text-shadow: 0 0 15px #0ef, 0 0 5px #0ef;
+  color: white;
+  text-shadow: 0 0 15px rgb(0, 60, 0), 0 0 5px darkgreen;
   margin-bottom: 10px;
   text-align: center;
 }
@@ -774,7 +774,7 @@ h2 {
   letter-spacing: 10px;
   font-weight: 700;
   color: #131217;
-  text-shadow: 4px 3px 2px darkolivegreen;
+  text-shadow: 4px 3px 2px rgb(105, 135, 51);
   position: relative;
   z-index: 2;
   text-align: center;
