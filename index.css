@@ -798,3 +798,22 @@ h2 {
   transform: translate(200px, 200px);
 }
 
+
+.bye2{
+  background-image: url('https://media.makeameme.org/created/end-of-my-8473b7ca03.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.img3{
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.img3 > img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

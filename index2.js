@@ -15,7 +15,7 @@ const mouse = {
 }
 
 const params = {
-    size: .1,
+    size: .07,
     tail: {
         dotsNumber: 25,
         spring: 1.4,
